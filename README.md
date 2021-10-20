@@ -4,6 +4,7 @@ React Bucket List app.
 ##screenshoot
 ![bucket list](https://user-images.githubusercontent.com/65136237/138016969-651d10da-b2d9-4ebf-84a4-d0d267d4458f.PNG)
 
+![bucket list 2](https://user-images.githubusercontent.com/65136237/138016990-4f0064cb-6033-45af-823a-402b6493237c.PNG)
 
 ## Acceptance Criteria
 
